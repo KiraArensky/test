@@ -1,6 +1,3 @@
-import cowsay
-
-
 def main():
     cowsay.cow('Hello World')
     cowsay.pig('yo')
