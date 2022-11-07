@@ -1,6 +1,3 @@
-import cowsay
-
-
 def main():
     print("----------------------")
     print("hhnhnhnhhnh")
